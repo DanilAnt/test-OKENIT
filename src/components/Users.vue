@@ -66,8 +66,8 @@ export default {
   display: flex;
   overflow: hidden;
   overflow-x: scroll;
-  min-height: 100px;
-  padding: 0 15px;
+  min-height: 110px;
+  padding: 5px 15px;
 }
 
 .usersList {
